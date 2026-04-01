@@ -1,0 +1,15 @@
+/* Define o estilo geral da página (body) */
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; /* fonte do texto*/
+    background-color: rgb(151, 9, 38);
+    text-align: center; /* centralizando */
+    margin-top: 50px; /* Adiciona espaço de 50px no topo da página*/
+}
+/* Define o estilo da caixa central*/
+.caixa{
+    background-color: rgb(82, 0, 0); /* cor de fundo da caixa*/
+    padding: 20px; /*espaço inteno da caixa*/ 
+   width: 300px; /* Largura fixa de 300px*/
+   margin:auto; /* Centraliza a caixa */
+   border-radius: 10px; /* Arredonda os cantos da caixa*/
+}
